@@ -1,0 +1,2 @@
+rootProject.name='Duvar Kağıtları Admin'
+include ':app'

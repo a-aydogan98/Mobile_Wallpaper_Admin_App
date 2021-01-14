@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Kategoriler">
+
+        <menu>
+
+            <item android:id="@+id/action_renkler"
+                android:title="Renkler"
+                android:icon="@drawable/kategori"/>
+
+            <item android:id="@+id/action_hayvanlar"
+                android:title="Hayvanlar"
+                android:icon="@drawable/kategori"/>
+
+            <item android:id="@+id/action_siyah"
+                android:title="Siyah"
+                android:icon="@drawable/kategori"/>
+
+            <item android:id="@+id/action_diger"
+                android:title="Diğer"
+                android:icon="@drawable/kategori"/>
+
+        </menu>
+
+    </item>
+
+</menu>
